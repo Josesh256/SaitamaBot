@@ -1,0 +1,16 @@
+{
+  "name": "saitama-telegram-bot",
+  "version": "1.0.0",
+  "description": "telegram bot for buy and sell in solana",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
